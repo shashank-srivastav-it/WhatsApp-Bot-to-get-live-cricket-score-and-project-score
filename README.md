@@ -1,2 +1,2 @@
-# WhatsApp-Bot-to-get-live-cricket-score-and-project-score
+# WhatsApp-Bot-to-get-live-cricket-score-and-projected-score
 Best Cricket WhatsApp Bot till now
